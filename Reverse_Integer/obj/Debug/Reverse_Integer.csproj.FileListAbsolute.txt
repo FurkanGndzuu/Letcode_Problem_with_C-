@@ -1,0 +1,8 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\bin\Debug\Reverse_Integer.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\bin\Debug\Reverse_Integer.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\bin\Debug\Reverse_Integer.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\obj\Debug\Reverse_Integer.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\obj\Debug\Reverse_Integer.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\obj\Debug\Reverse_Integer.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\obj\Debug\Reverse_Integer.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Integer\obj\Debug\Reverse_Integer.pdb
