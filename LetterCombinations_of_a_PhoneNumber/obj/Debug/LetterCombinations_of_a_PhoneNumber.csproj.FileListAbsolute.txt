@@ -1,0 +1,8 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\obj\Debug\LetterCombinations_of_a_PhoneNumber.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\obj\Debug\LetterCombinations_of_a_PhoneNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\obj\Debug\LetterCombinations_of_a_PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\bin\Debug\LetterCombinations_of_a_PhoneNumber.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\bin\Debug\LetterCombinations_of_a_PhoneNumber.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\bin\Debug\LetterCombinations_of_a_PhoneNumber.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\obj\Debug\LetterCombinations_of_a_PhoneNumber.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\LetterCombinations_of_a_PhoneNumber\obj\Debug\LetterCombinations_of_a_PhoneNumber.pdb
