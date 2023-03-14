@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\bin\Debug\net6.0\Reverse_Node_in_k_group.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\bin\Debug\net6.0\Reverse_Node_in_k_group.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\bin\Debug\net6.0\Reverse_Node_in_k_group.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\bin\Debug\net6.0\Reverse_Node_in_k_group.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\bin\Debug\net6.0\Reverse_Node_in_k_group.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\refint\Reverse_Node_in_k_group.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\Reverse_Node_in_k_group.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Reverse_Node_in_k_group\obj\Debug\net6.0\ref\Reverse_Node_in_k_group.dll
