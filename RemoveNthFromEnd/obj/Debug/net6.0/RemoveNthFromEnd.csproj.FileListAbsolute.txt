@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\bin\Debug\net6.0\RemoveNthFromEnd.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\refint\RemoveNthFromEnd.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\RemoveNthFromEnd.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\RemoveNthFromEnd\obj\Debug\net6.0\ref\RemoveNthFromEnd.dll
