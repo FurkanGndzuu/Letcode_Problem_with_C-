@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\bin\Debug\net6.0\Kth_Smallest_Element_in_a_BST.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\bin\Debug\net6.0\Kth_Smallest_Element_in_a_BST.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\bin\Debug\net6.0\Kth_Smallest_Element_in_a_BST.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\bin\Debug\net6.0\Kth_Smallest_Element_in_a_BST.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\bin\Debug\net6.0\Kth_Smallest_Element_in_a_BST.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\refint\Kth_Smallest_Element_in_a_BST.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\Kth_Smallest_Element_in_a_BST.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Kth_Smallest_Element_in_a_BST\obj\Debug\net6.0\ref\Kth_Smallest_Element_in_a_BST.dll
