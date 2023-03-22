@@ -24,9 +24,30 @@ namespace Reverse_Integer
                 b += a[i];
             }
 
-            if(Is_There_Any_Minus)
-                return (Convert.ToInt32(b) * (-1));
-            else return Convert.ToInt32(b);
+            if (Is_There_Any_Minus)
+            {
+                try
+                {
+                    return (Convert.ToInt32(b) * (-1));
+                }
+                catch (OverflowException)
+                {
+
+                    return 0;
+                }
+            }
+
+            else {
+                try
+                {
+                    return Convert.ToInt32(b);
+                }
+                catch (OverflowException)
+                {
+
+                    return 0;
+                }
+            }
         }
     }
 }
