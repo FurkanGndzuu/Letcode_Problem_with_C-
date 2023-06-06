@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\bin\Debug\net6.0\Letcode_Pow_x_n.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\bin\Debug\net6.0\Letcode_Pow_x_n.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\bin\Debug\net6.0\Letcode_Pow_x_n.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\bin\Debug\net6.0\Letcode_Pow_x_n.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\bin\Debug\net6.0\Letcode_Pow_x_n.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\refint\Letcode_Pow_x_n.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\Letcode_Pow_x_n.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Letcode_Pow_x_n\Letcode_Pow_x_n\obj\Debug\net6.0\ref\Letcode_Pow_x_n.dll
