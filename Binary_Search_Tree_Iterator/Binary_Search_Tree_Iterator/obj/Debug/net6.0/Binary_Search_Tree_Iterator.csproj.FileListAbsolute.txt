@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\bin\Debug\net6.0\Binary_Search_Tree_Iterator.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\bin\Debug\net6.0\Binary_Search_Tree_Iterator.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\bin\Debug\net6.0\Binary_Search_Tree_Iterator.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\bin\Debug\net6.0\Binary_Search_Tree_Iterator.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\bin\Debug\net6.0\Binary_Search_Tree_Iterator.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\refint\Binary_Search_Tree_Iterator.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\Binary_Search_Tree_Iterator.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Binary_Search_Tree_Iterator\Binary_Search_Tree_Iterator\obj\Debug\net6.0\ref\Binary_Search_Tree_Iterator.dll
