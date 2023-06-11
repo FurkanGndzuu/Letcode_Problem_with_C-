@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\bin\Debug\net6.0\Sliding_Window_Maximum.exe
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\bin\Debug\net6.0\Sliding_Window_Maximum.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\bin\Debug\net6.0\Sliding_Window_Maximum.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\bin\Debug\net6.0\Sliding_Window_Maximum.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\bin\Debug\net6.0\Sliding_Window_Maximum.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\refint\Sliding_Window_Maximum.dll
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.pdb
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\Sliding_Window_Maximum.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Letcode\Sliding_Window_Maximum\Sliding_Window_Maximum\obj\Debug\net6.0\ref\Sliding_Window_Maximum.dll
